@@ -1,0 +1,37 @@
+#logo {
+    width: 90px;
+    height: auto;
+    padding-left: 25px;
+    padding-bottom: 5px;
+}
+
+.carro{
+    padding-bottom: 30px;
+}
+
+.a{
+    height: 270px;
+    width: 270px;
+}
+
+.espaco{
+    padding-left: 35px;
+    padding-right: 50px;
+}
+
+footer{
+    padding: 20px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+h2{
+    padding-top: 30px;
+}
+
+.aii{
+    padding-top: 35px;
+    width: 300px;
+}
